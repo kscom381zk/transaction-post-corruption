@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  person: MyString
+  item: MyString
+  details: MyText
+  when: 2015-03-06 13:22:07
+  state: 1
+
+two:
+  person: MyString
+  item: MyString
+  details: MyText
+  when: 2015-03-06 13:22:07
+  state: 1
